@@ -1,7 +1,27 @@
 .hero {
+    background: #282d33;
+    margin-bottom: 47px;
 }
 
-.hero-title {
+.hero-title{
+    font-size: 30px;
+    color: #fff;
+}
+
+.hero-subtitle {
+    font-size: 18px;
+    color: #c9c7c7;
+}
+
+.hero-title2{
+    font-size: 18px;
+    color: #fff;
+}
+
+.hero-desc {
+    width: 484px;
+    margin-top: 0;
+    color: #c9c7c7;
 }
 
 

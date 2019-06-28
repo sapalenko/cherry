@@ -1,10 +1,16 @@
 .card {
 }
 
-.card-image {
-
+.card-img {
+    margin-bottom: 20px;
 }
 
-.card-description {
+.card-title {
+    margin: 0;
+    color: #282d33;
+    font-size: 18px;
+}
 
+.card-desc {
+    font-size: 12px;
 }

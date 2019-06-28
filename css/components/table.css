@@ -1,0 +1,36 @@
+.table-title {
+    margin-bottom: 22px;
+    font-size: 24px;
+    color: #a5adb8;
+}
+
+.table {
+    border: 2px solid #ffffff;
+    text-align: center;
+    color: #9da4af;
+    padding: 2px;
+    width: 740px;
+    border-collapse: collapse
+}
+
+.table-header {
+    background-color: #ff1744;
+    color: #fefeff;
+    font-size: 12px;
+}
+
+
+.table-row {
+    background-color: #282d33;
+    color: #a5adb8;
+    font-size: 12px;
+}
+
+th, td {
+    border: 1px solid #d8dbde;
+    padding: 13px 10px 10px;
+}
+
+td {
+    font-size: 14px;
+}

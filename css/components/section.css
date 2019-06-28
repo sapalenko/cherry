@@ -3,6 +3,17 @@
 }
 
 .section-title {
+    font-size: 24px;
+    color: #a5adb8;
+    margin-bottom: 12px;
+}
 
+.section-header {
+    padding: 44px 0 18px 28px;
+}
+
+.section-body {
+    padding-left: 28px;
+    padding-bottom: 38px;
 }
 
