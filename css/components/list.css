@@ -10,6 +10,11 @@
 
 .list-disc {
   list-style-type: disc;
+  padding-left: 13px;
+}
+
+.list-disc-padding {
+  padding-left: 27px; 
 }
 
 .unstyle-list {

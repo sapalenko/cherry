@@ -37,11 +37,21 @@ a, .link {
 }
 
 a:hover, .link:hover {
+  color: #fff;
   text-decoration: underline;
 }
 
 .pink-link {
   color: #d08b98;
+  text-decoration: underline;
+}
+
+.pink-link:hover {
+  color: #fff;
+}
+
+.link-desc:hover {
+  color: black;
 }
 
 img {

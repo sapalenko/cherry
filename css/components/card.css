@@ -14,3 +14,7 @@
 .card-desc {
     font-size: 12px;
 }
+
+.card-link:hover {
+    color: black;
+}
