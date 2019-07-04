@@ -1,7 +1,9 @@
 .card {
 }
 
-.card-img {
+.card-img img {
+    display: block;
+    height: 128px;
     margin-bottom: 20px;
 }
 
